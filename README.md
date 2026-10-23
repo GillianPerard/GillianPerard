@@ -2,6 +2,8 @@
 
 I'm Gillian, welcome to my Github profile!
 
+🥕 Creating a mobile application in React Native (Expo) and Rust for back-end part, to provide to people a way to structure their nutrition : [Qomi](https://qomi.app).
+
 ✍️ I'm an author of an open-source Typescript library to serialize/deserialize json objects into classes: [typescript-json-serializer](https://github.com/GillianPerard/typescript-json-serializer).
 
 😍 An Angular lover, traversing each release since AngularJS.
